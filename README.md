@@ -185,15 +185,6 @@ Each node is independently testable and the state is fully typed with TypedDict.
 
 ---
 
-##  Metrics for Resume
-
-- **RAG pipeline** over 23K+ PubMed papers indexed with domain-specific BioMedBERT embeddings
-- **7-node LangGraph agent** with self-critique reflection pattern reducing hallucinated citations
-- **Chain-of-thought reasoning traces** mapped to specific clinical findings and literature citations
-- **Medical safety guardrails** enforcing must-not-miss diagnoses and critical vital sign detection
-- **REST API** with async FastAPI, Pydantic v2 validation, and full OpenAPI documentation
-
----
 
 ##  Disclaimer
 
