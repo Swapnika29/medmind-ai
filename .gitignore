@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+backend/.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files - optional
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+
+# System files
+.DS_Store
